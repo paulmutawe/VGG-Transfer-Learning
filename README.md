@@ -1,5 +1,5 @@
 # VGG-Transfer-Learning
-Exploring of using the VGG architecture for transfer learning.
+Neural Network Deep learning and Computer Vision Project exploring the VGG architecture for transfer learning.
 
 Freezing pre-trained weights and adding a final fully connectedd layer for linear regression classification.
 
