@@ -1,4 +1,4 @@
-# VGG-Transfer_Learning
+# VGG-Transfer-Learning
 Exploring of using the VGG architecture for transfer learning.
 
 Freezing pre-trained weights and adding a final fully connectedd layer for linear regression classification.
